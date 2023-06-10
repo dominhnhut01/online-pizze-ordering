@@ -1,0 +1,12 @@
+.introduction-card {
+    background-color: rgb(222, 219, 219);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+  .introduction-card > img {
+    width: 100%;
+  }
