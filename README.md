@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository and install packages:
    ```shell
-   git clone [repository_url]
+   git clone https://github.com/dominhnhut01/online-pizze-ordering.git
    cd backend
    npm i
    cd ../frontend/
